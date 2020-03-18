@@ -1,0 +1,6 @@
+class NewClass{
+	//DOES SOMTHING
+
+
+
+}
